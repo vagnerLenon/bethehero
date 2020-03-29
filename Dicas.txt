@@ -1,0 +1,17 @@
+/* Hospedagem de servidor node*/
+
+
+Boa para testes
+Heroku -> Suporta plano grátis de hospedagem mas o plano pago é caro
+
+Comercial
+https://www.digitalocean.com/ -> Hospedagem paga (tutorial https://www.youtube.com/watch?v=ICIz5dE3Xfg )
+
+
+Para FrotEnd
+https://www.netlify.com/ -> 
+
+
+Gerar APK do Expo 
+
+Tutorial https://www.youtube.com/watch?v=wYMvzbfBdYI
